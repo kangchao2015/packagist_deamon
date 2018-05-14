@@ -1,7 +1,7 @@
 <?php
 namespace kang;
 
-class packDeamon 
+class packdeamon 
 {
     public function go()
     {
