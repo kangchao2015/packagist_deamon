@@ -1,0 +1,20 @@
+{
+  "name": "kangchao/my-first-packgist",
+  "description": "test packagist",
+  "type": "library",
+  "require": {
+    "php": ">5.4"
+  },
+  "license": "MIT",
+  "autoload":{
+    "psr-4":{
+      "kangchao\\":"src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "kangchao",
+      "email": "kangchaolove2009@163.com"
+    }
+  ]
+}
