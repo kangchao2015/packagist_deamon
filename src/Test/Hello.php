@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namspace Kangchao/test;
+namspace Kangchao/Test;
 
 class Hello{
   
